@@ -8,19 +8,19 @@ You can view a simple dashboard with the data and a plot on [Project Luther Dash
 
 ## Built With
 
-#####Languages
+##### Languages
 * Python
 * R
 
-#####Scraping Tools
+##### Scraping Tools
 * Beautiful Soup
 * Selenium
 
-#####Data Manipulation & Machine Learning Tools
+##### Data Manipulation & Machine Learning Tools
 * Pandas
 * Sklearn
 
-#####Framework and Visualization Tools
+##### Framework and Visualization Tools
 * Shiny
 * Plotly
 * Seaborn 
